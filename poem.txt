@@ -2,6 +2,7 @@ The Rainbow and the Unicorn
 Purple
 Pink
 yellow
+Indigo
 red
 Another Pink
 Green
